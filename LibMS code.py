@@ -2,7 +2,7 @@ import random
 import pandas as pd
 import pymysql
 import string
-db_con=pymysql.connect(host="localhost",user="root",password="riya18",db="lms")
+db_con=pymysql.connect(host="localhost",user="root",password="your password",db="lms")
 
 
 def issueb():
