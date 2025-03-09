@@ -18,4 +18,6 @@ Create following menu options:
  DISPLAY SPECIFIC BOOK 
  MODIFY BOOK 
  DELETE BOOK RECORD 
-4. EXIT 
+4. EXIT
+--> step by step process
+   1. first choose the right option and enter the option no then if you enter wrong no it will be shown 'wrong preference...'  
